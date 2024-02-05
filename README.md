@@ -1,6 +1,6 @@
-# Nuxt 3 Minimal Starter
+# Nuxt | Dojo Turotial
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This is a project created with the turorial [Nuxt3 Dojo Ninja](https://www.youtube.com/watch?v=XpCTyBMOtNQ&list=PL4cUxeGkcC9haQlqdCQyYmL_27TesCGPC&index=14&ab_channel=NetNinja) from YouTube.
 
 ## Setup
 
@@ -72,4 +72,3 @@ yarn preview
 bun run preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.

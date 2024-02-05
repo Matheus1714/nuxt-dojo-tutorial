@@ -1,0 +1,11 @@
+@base_url=https://api.currencyapi.com/v3/latest
+@api_key={{$dotenv CURRENCY_API_KEY}}
+
+###
+
+# get-currency
+
+GET {{base_url}}/
+    ?currencies=GBP
+    &apikey={{api_key}}
+
